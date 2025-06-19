@@ -62,7 +62,7 @@ for sentence in test_sentences:
 
 ~~~
 ## OUTPUT:
-
+![image](https://github.com/user-attachments/assets/bf13eceb-e88a-479f-8012-64ea05abb5b7)
 
 ## RESULT:
 
