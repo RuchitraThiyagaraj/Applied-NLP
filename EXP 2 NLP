@@ -61,9 +61,8 @@ for sentence in test_sentences:
     print(f"English: {sentence} -> French: {translations[0]}")
 
 ~~~
-
-
 ## OUTPUT:
+
 
 ## RESULT:
 
