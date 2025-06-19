@@ -77,7 +77,6 @@ for similar_word, similarity in similar_words:
 ![image](https://github.com/user-attachments/assets/f3565664-2aa1-4603-b5c0-1b7d9316ca6f)
 
 
-
 ## RESULT:
 
 Thus ,the Word2Vec model was successfully trained on the preprocessed corpus.
