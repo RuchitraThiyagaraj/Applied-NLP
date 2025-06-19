@@ -6,7 +6,7 @@
 ## AIM:
 To create a basic machine translation system using the K-Nearest Neighbors (KNN) algorithm with cosine similarity on TF-IDF vectors.
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED :
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
