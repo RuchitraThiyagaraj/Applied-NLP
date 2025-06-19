@@ -1,6 +1,6 @@
 <H3>ENTER YOUR NAME : SHARMITHA V</H3>
 <H3>ENTER YOUR REGISTER NO : 212223110048</H3>
-<H3>EX. NO.1</H3>
+<H3>EX. NO.3</H3>
 <H1 ALIGN =CENTER> Sentence Similarity Detection Using Siamese LSTM Network</H1>
 
 ## AIM:
